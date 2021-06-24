@@ -5,4 +5,5 @@
 1. Bootstrap 4.3、PHP
 
 ## Screenshot
+![management](https://raw.githubusercontent.com/wei032499/newcsieweb_demo/main/screenshot/management.png)
 ![home](https://raw.githubusercontent.com/wei032499/newcsieweb_demo/main/screenshot/home.png)
